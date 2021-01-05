@@ -40,7 +40,7 @@
     },
     "dependencies": {
         "@mapbox/polyline": "^1.0.0",
-        "axios": "^0.18.0",
+        "axios": "^0.21.1",
         "link": "^0.1.5",
         "lodash": "^4.17.10",
         "moment": "^2.23.0",
